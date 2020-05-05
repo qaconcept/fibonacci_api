@@ -29,7 +29,7 @@ def fibo(n: int):
 def send_fibo():
     """
     Sending the fibonacci list to the user or if
-    he uses improper input
+    user uses improper input
     """
     try:
         return str(fibo(int(request.args['n'])))
