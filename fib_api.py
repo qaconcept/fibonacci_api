@@ -7,7 +7,7 @@ def fibo(n: int):
     a = 0
     b = 1
     """
-    Calculating the fibonacci numbers
+    creating the fibonacci list
     """
     if n < 1:
         return 'Only numbers > 0 are accepted'
