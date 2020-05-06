@@ -4,7 +4,7 @@ fibonacci restful api (user inputs number for range and fibonacci list is displa
 fib_api.py instrunctions:
 1. Install Python 3.8.2 (install pip is not included) https://www.python.org/downloads/
 2. open Terminal on Mac and navigate to python directory
-3. install Flask using command 'pip install Flask' (also install install requests using command 'python3.8 -m pip install')
+3. install Flask using command 'pip install Flask' (also install install requests using command 'python3.8 install requests')
 4. clone github repository https://github.com/qaconcept/fibonacci_api.git
 5. in terminal navigate to python directory and enter 'python3 fib_api.py' and press enter to run
     -this will start a local host http://localhost:5000/
