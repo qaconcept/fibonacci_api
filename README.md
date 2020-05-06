@@ -10,7 +10,7 @@ fib_api.py instrunctions:
     -this will start a local host http://localhost:5000/
 6. in a web browser on the same machine, enter url and fibonacci range number ex:http://localhost:5000/?n=5
         ?n is our range number...
-        our example ex:http://localhost:5000/?n=5 will return list [0, 1, 1, 2, 3]
+        our example:http://localhost:5000/?n=5 will return list [0, 1, 1, 2, 3]
 
 note: anything other than an int, negative numbers will return error.
 
